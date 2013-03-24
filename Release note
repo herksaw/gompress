@@ -1,0 +1,8 @@
+Gompress
+--------
+A command line based utility tool that supports various archive formats.
+
+v0.0.1 Sunday, 24 March 2013
+----------------------------
+-Initial release.
+-Add experimental zip support.
